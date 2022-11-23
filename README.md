@@ -1,4 +1,4 @@
-# Best Ever File Manager
+# File Manager
 
 
 <p><B>Inspired by far file manager</B></p>
